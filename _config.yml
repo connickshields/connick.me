@@ -1,0 +1,27 @@
+# Site settings
+title: Connick Shields
+description: >-
+  I am a passionate software engineer currently building REST APIs and learning plenty at Baton Systems,
+  a fintech startup. For university, I attended UC Santa Cruz, graduating in 2019 with a Computer Science
+  degree.
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site
+
+# User settings
+full_name: Connick Shields
+first_name: Connick
+user_description: >-
+  I am a passionate software engineer currently building REST APIs and learning plenty at Baton Systems,
+  a fintech startup. For university, I attended UC Santa Cruz, graduating in 2019 with a Computer Science
+  degree.
+user_title: Software Developer
+email: contact@connick.me
+phone: +1-510-761-8132
+linkedin_slug: connickshields
+github_username:  connickshields
+
+# Google-analytics
+google-analytics:
+  id: "UA-125832320-1"
+
+exclude: ['package.json', 'src' , 'node_modules', "yarn.lock", "Gemfile", "Gemfile.lock", "gulpfile.js"]

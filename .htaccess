@@ -1,0 +1,5 @@
+ErrorDocument 404 /404/index.html
+
+RewriteEngine On
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://connick.me/$1 [R,L]

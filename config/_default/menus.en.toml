@@ -18,8 +18,8 @@
   weight = 10
 
 [[main]]
-  name = "about"
-  pageRef = "about"
+  name = "resume"
+  pageRef = "resume"
   weight = 15
 
 [[main]]

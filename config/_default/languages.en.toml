@@ -1,0 +1,27 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "Connick Shields"
+description = "Software Engineer"
+copyright = "© 2023"
+
+dateFormat = "2 January 2006"
+
+[params]
+  # mainSections = ["section1", "section2"]
+
+[author]
+  name = "Hi, I'm Connick! 👋"
+  # image = "img/profile.png"
+  headline = "Software Engineer"
+  # bio = ""
+  links = [
+    { email = "mailto:contact@connick.me" },
+    { phone = "tel:+15107618132" },
+    { github = "https://github.com/connickshields" },
+    { linkedin = "https://linkedin.com/in/connickshields" },
+  ]

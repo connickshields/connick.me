@@ -1,3 +1,4 @@
 # connick.me
 
-use `jekyll build` to build the site
+use `hugo` to build the site
+to host locally for dev, use `hugo server`

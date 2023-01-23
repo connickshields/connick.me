@@ -12,7 +12,7 @@ As a member of the platform team, I was responsible for the API product itself a
 <h4>Baton Systems, 2019–2020</h4>
 Using Java alongside ActiveMQ and MySQL, I was responsible for designing and implementing Springboot REST APIs for financial asset management web applications. I also led a project that used Netflix's <a target="_blank" href="https://conductor.netflix.com">Conductor</a> workflow orchestration engine to run functions relevant to specific business use cases, including MFA authentication and transaction settlement. Additionally, I spearheaded integration of <a target="_blank" href="https://istio.io/">Istio</a> into Kubernetes clusters to gather service health metrics and enable painless distributed tracing across applications.<br/>
 <br/>
-<h3><mark>stuff</mark></h3>
+<h3><mark>skills</mark></h3>
 <h4>Languages</h4>
 JavaScript, Java, TypeScript, Python, Spanish <i>(somewhat)</i><br/>
 <br/>

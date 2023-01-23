@@ -23,5 +23,6 @@ dateFormat = "2 January 2006"
     { email = "mailto:contact@connick.me" },
     { phone = "tel:+15107618132" },
     { github = "https://github.com/connickshields" },
+    { bug = "https://hackerone.com/thesabreslicer" },
     { linkedin = "https://linkedin.com/in/connickshields" },
   ]

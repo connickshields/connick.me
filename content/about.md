@@ -6,8 +6,8 @@ layout: "simple"
 where I've been & what I know
 {{< /lead >}}
 <h3><mark>work</mark></h3>
-<h4>Citeline, 2023–present  •  Product Security Engineer</h4>
-I am helping to build the Product Security program from the ground up, which includes OWASP SAMM assessments, CI/CD pipeline improvements, SAST, DAST, SCA, vulnerability management, and incident response functions. I also work closely with others in the Information Security organization to improve the overarching security posture of the business.<br/>
+<h4>Norstella, 2023–present  •  Product Security Engineer</h4>
+I am building the Product Security program from the ground up, which includes maturity assessments, CI/CD pipeline improvements, SAST, DAST, SCA, product architecture review, vulnerability management, and incident response functions. I am also working closely with the rest of the Information Security team to improve the overall security posture of the organization.<br/>
 <br/>
 <h4>Smartcar, 2021–2022  •  Software Engineer</h4>
 As a member of the platform team, I was responsible for the API product itself as well as company infrastructure and internal developer tooling. Primarily working in JavaScript & TypeScript with PostgreSQL, I led development of 5 new OEM platforms (for 10+ brands), utilizing AWS Lambda functions and redis pubsub for authentication flows that required advanced logic handling. I also fleshed out two internal Slack bots which helped improve on-call monitoring and response times.<br/>

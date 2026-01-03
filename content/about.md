@@ -17,7 +17,7 @@ Using Java alongside ActiveMQ and MySQL, I was responsible for designing and imp
 <br/>
 <h3><mark>awards</mark></h3>
 <h4>United Airlines bug bounty program, 2025</h4>
-Awarded undisclosed Severity 3 bug bounty
+Awarded Severity 3 bug bounty for undisclosed bug
 <br/>
 <h4>CloudFlare bug bounty program, 2022</h4>
 Awarded $750 for undisclosed DNS resolution bug

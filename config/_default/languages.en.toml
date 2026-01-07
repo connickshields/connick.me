@@ -7,12 +7,10 @@ rtl = false
 
 title = "connick shields"
 description = "Product Security Engineer"
-copyright = "© 2023"
-
-dateFormat = "2 January 2006"
+copyright = "© 2026"
 
 [params]
-  # mainSections = ["section1", "section2"]
+  dateFormat = "2 January 2006"
 
 [params.author]
   name = "Hi, I'm Connick! 👋"
@@ -26,3 +24,4 @@ dateFormat = "2 January 2006"
     { bug = "https://hackerone.com/thesabreslicer" },
     { linkedin = "https://linkedin.com/in/connickshields" },
   ]
+

@@ -6,7 +6,7 @@ layout: "simple"
 where I've been & what I know
 {{< /lead >}}
 <h3><mark>work</mark></h3>
-<h4>Norstella, 2023–present  •  Product Security Engineer</h4>
+<h4>Norstella, 2023–present  •  Senior Product Security Engineer</h4>
 I am building the Product Security program from the ground up, which includes maturity assessments, CI/CD pipeline improvements, SAST, DAST, SCA, product architecture review, vulnerability management, and incident response functions. I am also working closely with the rest of the Information Security team to improve the overall security posture of the organization.<br/>
 <br/>
 <h4>Smartcar, 2021–2022  •  Software Engineer</h4>
@@ -16,6 +16,9 @@ As a member of the platform team, I was responsible for the API product itself a
 Using Java alongside ActiveMQ and MySQL, I was responsible for designing and implementing Springboot REST APIs for financial asset management web applications. I also led a project that used Netflix's <a target="_blank" href="https://conductor.netflix.com">Conductor</a> workflow orchestration engine to run functions relevant to specific business use cases, including MFA authentication and transaction settlement. Additionally, I spearheaded integration of <a target="_blank" href="https://istio.io/">Istio</a> into Kubernetes clusters to gather service health metrics and enable painless distributed tracing across applications.<br/>
 <br/>
 <h3><mark>awards</mark></h3>
+<h4>United Airlines bug bounty program, 2025</h4>
+Awarded Severity 3 bug bounty for undisclosed bug
+<br/>
 <h4>CloudFlare bug bounty program, 2022</h4>
 Awarded $750 for undisclosed DNS resolution bug
 <br/>
